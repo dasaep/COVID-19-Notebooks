@@ -12,7 +12,6 @@ dependencies:
   - altair==4.1.0
   - folium==0.10.1
   - ipython==7.8.0
-  - ipython-genutils==0.2.0
   - matplotlib==3.1.1
   - nbconvert==5.6.0
   - nbformat==4.4.0
@@ -26,5 +25,5 @@ dependencies:
   - ply==3.11
   - requests==2.22.0
   - rise==5.6.1
-  - vega-datasets==0.8.0
+  - vega-datasets
   - widgetsnbextension==3.5.1
