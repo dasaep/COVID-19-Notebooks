@@ -2,6 +2,7 @@ name: rise-environment
 channels:
   - damianavila82
   - conda-forge
+  - pip=19.2.3=py37_0
 dependencies:
   - python
   - numpy
