@@ -2,7 +2,6 @@ name: rise-environment
 channels:
   - damianavila82
   - conda-forge
-  - pip=19.2.3=py37_0
 dependencies:
   - python
   - numpy
@@ -10,6 +9,7 @@ dependencies:
   - pandas
   - bokeh
   - rise
+  - pip==19.2.3
   - pip:
     - altair==4.1.0
     - bokeh==2.0.1
