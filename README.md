@@ -5,7 +5,8 @@
   <li>COVID-19 Pandemic - Its comparison to other Pandemics in history
   <li> US county wise resource utilization </li>
   <li> Financial Impact to global economy </li>  
-  <li> Launch the notebook here [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dasaep/COVID-19-Notebooks/master?filepath=index.nbconvert.ipynb) </li>
+  <li> Launch the notebook Below using Launch Binder icon </li>
 </ul>
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dasaep/COVID-19-Notebooks/master?filepath=index.nbconvert.ipynb)
 
