@@ -5,4 +5,5 @@
   <li> US county wise resource utilization </li>
   <li> Financial Impact to global economy </li>  
 </ul>
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dasaep/COVID-19-Notebooks/master?filepath=index.nbconvert.ipynb)
+
+[![Binder] (https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dasaep/COVID-19-Notebooks/master?filepath=index.nbconvert.ipynb)
